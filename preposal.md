@@ -2,12 +2,12 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+The idea that I have for my final project is to program a gobang game.
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+I prefer to work individually for the final project.
 
 ## Do you have any questions of your own?
 
-TODO
+For now, I don't have any questoins of my own.
