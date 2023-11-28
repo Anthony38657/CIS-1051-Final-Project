@@ -2,11 +2,11 @@
 
 #### Your name
 
-TODO
+Tony Yang
 
 #### Your section leader's name
 
-TODO
+Tony Yang
 
 #### Project title
 
