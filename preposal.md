@@ -2,7 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
-The idea that I have for my final project is to program a gobang game.
+The idea that I have for my final project is to program a renju game.
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
